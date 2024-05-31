@@ -17,3 +17,11 @@
 6. Data Visualization that is created charts,graphs and dashboards to present key findings.
 
 7.Conclusion and Recommendations for improving operations in Business.
+
+
+### Recommendations:- 
+1. Phone sales are prevailing hence SuperStore should always contain decent amount of Phone Stock along with its accessories.
+2. Store should give discount on Office Furniture to boost its sales.
+3. Superstore should also focus on Sales in remote areas as it will improve its creditibility.
+4. Sales in Central Region is quiet low hence should find the core problem and fix it.
+5. Customers are neglecting to buy appliances hence should provide proper EMI methods and discounts to improve appliances sale.
